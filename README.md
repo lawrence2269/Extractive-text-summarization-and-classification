@@ -17,7 +17,7 @@ But, in this motebook, I am going to demonstrate the implementation of <b>Extrac
 We need to have an understanding of <b>PageRank</b> algorithm before understanding TextRank algorithm because PageRank algorithm's working is similar to TextRank algorithm. PageRank algorithm's main purpose is to rank web pages based on the online search results. In order to rank the web pages, we need a <b>PageRank score</b> which is the probability of user visiting that web page. The scores are stored in a matrix of n X n dimension where n is the number of web pages.
 The score presented in the matrix representes the user's transistion from one page to another. Likewise, TextRank uses sentences to instead of web pages.
 
-![TextRank working process](TextRank_working.png)
+![TextRank working process](Report/TextRank_working.png)
 <div style="text-align:center">
     Source : <a href="https://licor.me/post/introduction-to-automatic-text-summarization/">Introduction to Automatic Text Summarization</a>
 </div>
