@@ -21,3 +21,10 @@ The score presented in the matrix representes the user's transistion from one pa
 <div style="text-align:center">
     Source : <a href="https://licor.me/post/introduction-to-automatic-text-summarization/">Introduction to Automatic Text Summarization</a>
 </div>
+
+##### Process
+* Clone the repository to your local hard disk.
+* Download pre-trained word vector -> GloVe.6B.100D.txt file from <a href="https://nlp.stanford.edu/data/glove.6B.zip">GloVe: Global Vectors for Word Representation-Stanford NLP</a>
+* Unzip the .txt (inside the downloaded .zip file) file in a folder named "glove.6b" inside "Data" folder.
+* Run the notebooks in "src" folder.
+
